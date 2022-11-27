@@ -1,0 +1,10 @@
+name: Masks
+version: '${project.version}'
+main: fr.almo.masks.Masks
+api-version: 1.19
+authors: [ almo ]
+description: Plugin de masques spéciaux.
+commands:
+  masks:
+    description: Permet d'obtenir un masque spécial.
+    usage: lol
